@@ -1,0 +1,19 @@
+{
+    "name": "@jitesoft/gitlab-batch-migrate",
+    "version": "1.0.0",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.19.2",
+        "form-data": "^3.0.0"
+    },
+    "main": "index.js",
+    "author": {
+        "email": "johannes@jitesoft.com",
+        "name": "Johannes Tegnér",
+        "url": "https://jitesoft.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://gitlab.com/jitesoft/open-source/javascript/gitlab-batch-migrate"
+    }
+}

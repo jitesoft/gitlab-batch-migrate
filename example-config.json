@@ -1,0 +1,12 @@
+{
+    "from": {
+        "url": "https://gitlab.example.com",
+        "key": "",
+        "sudo": ""
+    },
+    "to": {
+        "url": "https://gitlab.com",
+        "key": "",
+        "namespace": ""
+    }
+}
